@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# C++ and CMake
+build/
+*.o
+*.obj
+*.exe
+
+# CUDA
+*.ptx
+*.cubin
